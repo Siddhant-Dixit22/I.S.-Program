@@ -35,7 +35,7 @@ export default function Home() {
     <div id="main" className="flex flex-col min-h-screen">
       <header className="flex justify-center p-4">
         <h1 id="title" className="text-2xl font-bold">
-          Sid's Program
+          Sids Program
         </h1>
       </header>
       <main id="program" className="flex flex-col items-center justify-center flex-grow">
